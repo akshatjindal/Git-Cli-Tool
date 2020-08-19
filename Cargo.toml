@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 crossterm = "0.17.3"
+git2 = "0.13.8"
+chrono = "0.4.15"
